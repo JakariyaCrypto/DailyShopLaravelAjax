@@ -1,0 +1,30 @@
+0.admin login system
+1.multi Dropdown menu and mega menu
+2.tax type empty submit show error
+3.interger when submit by character show error
+4.printable data for admin tables
+5.pagination
+6.multi language use
+7.subcribe news letter
+8.create contract,aboutus page
+9.cart qty minus number manage
+
+
+//************** verified account **************************/
+akddosali935605@gmail.com	
+pwd = jakariya
+
+
+
+card Numabe : 4242 4242 4242 4242
+date : 01/22/111
+pwd : 1221
+
+
+//livedatabase
+dbName = epiz_30062518_daily_shop
+userName : 
+pwe		 :
+
+
+
